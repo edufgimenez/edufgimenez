@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor focado em desenvolvimento web e automação, sempre buscando otimizar processos e melhorar a experiência do usuário.
+Desenvolvedor Back-End focado em desenvolvimento web e automação, sempre buscando otimizar processos e melhorar a experiência do usuário.
 
 <br>
 
